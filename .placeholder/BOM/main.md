@@ -7,5 +7,4 @@
 | 3 | CAP-470 | 470µF Capacitor | 2 | $0.75 | $1.50 |
 | 4 | LED-RED | Red LED 5mm | 3 | $0.25 | $0.75 |
 | 5 | SW-001 | Push Button Switch | 1 | $1.20 | $1.20 |
-| 6 | CASE-PLT | Plastic Enclosure | 1 | $8.50 | $8.50 |
 
