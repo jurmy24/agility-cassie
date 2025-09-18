@@ -16,7 +16,7 @@
 
 ## 🌟 Overview
 
-Welcome to the **Agility Cassie** repository! This project focuses on the remarkable Cassie bipedal robot developed by Agility Robotics. Cassie represents a breakthrough in dynamic locomotion research, featuring human-like walking capabilities and unprecedented mobility across challenging terrains.
+Welcome to the **Agility Cassie** repository! This project focuses on the remarkable Cassie robot developed by Agility Robotics. Cassie represents a breakthrough in dynamic locomotion research, featuring human-like walking capabilities and unprecedented mobility across challenging terrains.
 
 ### ✨ Key Features
 
